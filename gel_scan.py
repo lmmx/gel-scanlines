@@ -2,7 +2,6 @@ from imageio import imread, imwrite
 from matplotlib import pyplot as plt
 from skimage.util import img_as_float
 from skimage.color import rgb2gray
-from tqdm import tqdm
 import numpy as np
 from pathlib import Path
 

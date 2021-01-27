@@ -3,5 +3,3 @@ matplotlib
 numpy
 scipy
 scikit-image
-scikit-learn
-tqdm
