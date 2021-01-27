@@ -29,4 +29,5 @@ thoughts welcome in issues/pull requests!
 
 Since a gel plot photo will have (by design) peaks all the way along, it's more accurate to
 say the scanlines are a multimodal distribution. In fact, you want them to be sharp peaks,
-so that should make the distribution quite nice to work with in a Gaussian mixture model?
+so that should make the distribution quite nice to work with in a [Gaussian mixture
+model](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html)?
